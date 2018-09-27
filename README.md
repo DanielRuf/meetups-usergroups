@@ -17,3 +17,4 @@
 25.07.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 23.08.18 PHPUGMRN @ kuehlhaus Mannheim​  
 25.09.18 Oxid User Group Rhein-Main @ Joscha Krug  
+27.09.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
