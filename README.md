@@ -1,5 +1,5 @@
 26.10.17 PHPUGMRN @ C-Hub Mannheim  
-28.10.17 unkonf @ bitExpert Mannheim  
+28.10.17 unKonf @ bitExpert Mannheim  
 23.01.18 shopware UG @ kuehlhaus Mannheim  
 14.03.18 TYPO3 UGRN @ UEBERBIT Mannheim​  
 11.04.18 TYPO3 UGRN @ Interfrog Mannheim  
@@ -18,3 +18,4 @@
 23.08.18 PHPUGMRN @ kuehlhaus Mannheim​  
 25.09.18 Oxid User Group Rhein-Main @ Joscha Krug  
 27.09.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
+13.10.18 unKonf @ bitExpert Mannheim  
