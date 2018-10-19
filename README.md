@@ -19,3 +19,4 @@
 25.09.18 OXID User Group Rhein-Main @ Joscha Krug  
 27.09.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 13.10.18 unKonf @ bitExpert Mannheim  
+18.10.18 PHPUGMRN @ UEBERBIT Mannheim​  
