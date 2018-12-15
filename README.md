@@ -21,3 +21,4 @@
 13.10.18 unKonf @ bitExpert Mannheim  
 18.10.18 PHPUGMRN @ UEBERBIT Mannheim​  
 28.11.18 RheinNeckarJS @ BridgingIT Mannheim  
+12.12.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
