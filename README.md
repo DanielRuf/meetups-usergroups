@@ -24,3 +24,4 @@
 12.12.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 17.01.19 React Meetup Mannheim @ MAFINEX Technologiezentrum Mannheim  
 23.01.19 RheinNeckarJS @ Instaffo Heidelberg  
+07.02.19 ngHeidelberg @ Verivox Heidelberg
