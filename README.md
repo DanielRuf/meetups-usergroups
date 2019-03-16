@@ -26,3 +26,4 @@
 23.01.19 RheinNeckarJS @ Instaffo Heidelberg  
 07.02.19 ngHeidelberg @ Verivox Heidelberg  
 28.02.19 PHPUGMRN @ trio-group Mannheim  
+11. + 12.03.19 JS Kongress 2019 @ München  
