@@ -29,3 +29,4 @@
 11. + 12.03.19 JS Kongress 2019 @ München  
 28.03.19 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 15.05.19 RheinNeckarJS @ Getsafe Heidelberg  
+23.05.19 React Meetup Mannheim @ MAFINEX Technologiezentrum Mannheim  
