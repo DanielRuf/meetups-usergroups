@@ -32,3 +32,4 @@
 23.05.19 React Meetup Mannheim @ MAFINEX Technologiezentrum Mannheim  
 19.06.19 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 27.06.19 PHPUGMRN @ UEBERBIT Mannheim  
+29.08.19 PHPUGMRN @ kellerkinder Hockenheim  
