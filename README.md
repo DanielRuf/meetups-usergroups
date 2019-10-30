@@ -35,4 +35,5 @@
 29.08.19 PHPUGMRN @ kellerkinder Hockenheim  
 6. + 7.9.19 PHPUnit Code Sprint @ bitExpert Mannheim  
 12.10.19 unKonf @ bitExpert Mannheim  
-16.10.19 Docker Meetup Mannheim (Mentor) @ VESCON Frankenthal
+16.10.19 Docker Meetup Mannheim (Mentor) @ VESCON Frankenthal  
+22.10.19 Hacktoberfest Frontend Rhein-Neckar @ UEBERBIT Mannheim  
