@@ -37,3 +37,4 @@
 12.10.19 unKonf @ bitExpert Mannheim  
 16.10.19 Docker Meetup Mannheim (Mentor) @ VESCON Frankenthal  
 22.10.19 Hacktoberfest Frontend Rhein-Neckar @ UEBERBIT Mannheim  
+31.10.19 PHPUGMRN @ JobRouter Mannheim  
