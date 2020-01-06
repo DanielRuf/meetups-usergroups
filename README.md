@@ -10,7 +10,7 @@
 29.05.18 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 09.06.18 Scrum-Workshop @ objective partner Weinheim  
 13.06.18 TYPO3 UGRN @ Interfrog Mannheim  
-20. + 21.6.18 enterJS @ Darmstadt (Darmstadtium)  
+20. + 21.06.18 enterJS @ Darmstadt (Darmstadtium)  
 28.06.18 PHPUGMRN @ LivePerson Mannheim  
 11.07.18 TYPO3 UGRN @ UEBERBIT Mannheim  
 13.07.18 CertiFUNcation @ Phantasialand Brühl  
@@ -33,9 +33,10 @@
 19.06.19 Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 27.06.19 PHPUGMRN @ UEBERBIT Mannheim  
 29.08.19 PHPUGMRN @ kellerkinder Hockenheim  
-6. + 7.9.19 PHPUnit Code Sprint @ bitExpert Mannheim  
+06. + 07.09.19 PHPUnit Code Sprint @ bitExpert Mannheim  
 12.10.19 unKonf @ bitExpert Mannheim  
 16.10.19 Docker Meetup Mannheim (Mentor) @ VESCON Frankenthal  
 22.10.19 Hacktoberfest Frontend Rhein-Neckar @ UEBERBIT Mannheim  
 31.10.19 PHPUGMRN @ JobRouter Mannheim  
 27.11.19 RheinNeckarJS @ bitExpert Mannheim  
+03.12.19 React Meetup Mannheim @ MAFINEX Technologiezentrum Mannheim  
