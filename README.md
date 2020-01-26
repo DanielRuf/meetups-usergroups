@@ -40,3 +40,4 @@
 31.10.19 PHPUGMRN @ JobRouter Mannheim  
 27.11.19 RheinNeckarJS @ bitExpert Mannheim  
 03.12.19 React Meetup Mannheim @ MAFINEX Technologiezentrum Mannheim  
+22.01.20 RheinNeckarJS @ VESCON Frankenthal  
